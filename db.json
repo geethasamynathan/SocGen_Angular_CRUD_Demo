@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Geetha",
+      "email": "geetha@gmail.com",
+      "phone": "476-767-4344"
+    },
+    {
+      "name": "sam",
+      "email": "geetha3588@outlook.com",
+      "phone": "0444",
+      "id": 8
+    },
+    {
+      "name": "riya",
+      "email": "riya@mail.com",
+      "phone": "067877",
+      "id": 9
+    }
+  ]
+}
